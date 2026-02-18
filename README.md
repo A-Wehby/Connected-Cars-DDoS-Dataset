@@ -7,4 +7,4 @@ The dataset contains the Cooperative Awareness Messages (CAMs) as received by th
 [CAM structure.pdf](https://github.com/A-Wehby/Connected-Cars-DDoS-Dataset/files/14585572/CAM.structure.pdf)
 
 ## Generation parameters
-The details can be found in our paper (link on the way).
+The details can be found in our paper (https://www.researchgate.net/publication/383812650_Shielding_the_Connected_Cars_A_Dataset-Powered_Defense_Against_DDoS).
